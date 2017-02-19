@@ -7,3 +7,16 @@ The very first London Privacy Lab was in July 2016. Local Mozillians attended th
 What this means to us is that we intend holding semi-regular workshops and events - where interested community members already engage. At universities, legal & privacy professionals, developer and co-working spaces, charity and non-profits, open source product businesses, and all interested parties aligned with the Mozilla Mission. 
 
 It's the London Privacy Lab team's intention of emphasising the grassroots nature of these events and through content variety, workshops, tutorials, open discourse, and remote interaction, as our focus.
+
+# With Whom Have We Collaborated With?
+
+* Lawyers
+* Campaign Groups
+* Researchers
+* Activism Community
+* Consultants
+* Students
+
+In no way is this list intended to be restrictive. We welcome contribution from anyone interested in talking about the importance of Privacy. Not just minority groups and journalism, but fields of sience, design, education and more!
+
+Privacy is not only an indelible human right, but it is something worth fighting for, and publicising in an array of new and engaging ways.
