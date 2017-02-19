@@ -8,7 +8,7 @@ What this means to us is that we intend holding semi-regular workshops and event
 
 It's the London Privacy Lab team's intention of emphasising the grassroots nature of these events and through content variety, workshops, tutorials, open discourse, and remote interaction, as our focus.
 
-# With Whom Have We Collaborated With?
+# With Whom Have We Collaborated?
 
 * Lawyers
 * Campaign Groups
