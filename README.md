@@ -1,6 +1,6 @@
 # Event Archive
 
-Privacy Lab was started by Mozilla in the USA. The intention is to build an grassroots network of academia, businesses, activists, and interested members. Events are usually developed by volunteers, often taking the form of panel discussions and project presentations.
+Privacy Lab was started by Mozilla in the USA. The intention is to build an grassroots network of academia, professionals, businesses, developers, activists, and interested members of the public. Events are usually developed by volunteers, often taking the form of panel discussions and project presentations.
 
 The very first London Privacy Lab was in July 2016. Local Mozillians attended this event and expressed interest in taking the event to a more regular timescale. Subsequent meetups have been at Mozilla London, but in keeping with Mozilla's initiatives to encourage decentralisation, activate and grow local community engagement, and work in the open, it's our intention to further establish and grow the scope of London Privacy Lab.
 
